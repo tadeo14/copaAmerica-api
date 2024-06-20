@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2024-06-20T00:51:51.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9la74d9Dzi261faNu5nF" version="24.3.1" type="device">
+  <diagram name="Página-1" id="bjCX0kBBGUh_o9pOdjpd">
+    <mxGraphModel dx="603" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UK5v3Y8drctqsrxT1B1F-1" value="PAGINA WEB MUESTRE PARTIDOS EN VIVO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UK5v3Y8drctqsrxT1B1F-2" value="REACT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
